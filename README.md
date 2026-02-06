@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/version-1.1.0-blue?style=for-the-badge&logo=apple" alt="Version"/>
 <img src="https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20Web-brightgreen?style=for-the-badge" alt="Platform"/>
 <img src="https://img.shields.io/badge/AI-Powered-orange?style=for-the-badge&logo=openai" alt="AI"/>
-<img src="https://img.shields.io/github/issues/scrollDynasty/caloriesapp?style=for-the-badge" alt="Issues"/>
+<img src="https://img.shields.io/badge/Closed_Source-red?style=for-the-badge" alt="Closed Source"/>
 
 **Наведи камеру на еду — получи полный анализ питательности за секунды** 📸✨
 
@@ -247,8 +247,7 @@ iPhone 12+ • iPad • Android 8+ • Планшеты • Любой брау�
 
 <br/>
 
-[![Star this repo](https://img.shields.io/github/stars/scrollDynasty/caloriesapp?style=social)](https://github.com/scrollDynasty/caloriesapp)
-[![Watch this repo](https://img.shields.io/github/watchers/scrollDynasty/caloriesapp?style=social)](https://github.com/scrollDynasty/caloriesapp)
+---
 
 <br/>
 
